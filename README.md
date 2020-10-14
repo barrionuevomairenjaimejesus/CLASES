@@ -21,6 +21,6 @@ Creamos el README.md
 Ahora subimos nuestro proyecto a Github
 git add .
 git commit -m "first commit"
-git remote add origin https://github.com/RodriguezJimenezJorge/002_nodejs.git
+git remote add origin 
 git push -u origin master
 Creamos la carpeta view y metemos los archivos 'entradaTeclado' y 'menuPral'
